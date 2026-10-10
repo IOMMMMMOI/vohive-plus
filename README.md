@@ -31,6 +31,7 @@ VoHive 面向高通 4G/LTE/5G 模组，例如 Quectel EC20、EC25、EC21、EG25�
 | 多模组并发管理 | 支持 USB 热插拔发现、多设备状态监控和运行时设备管理。 |
 | 轻量级代理引擎 | 支持 SOCKS5 / HTTP 代理实例，按设备网卡绑定出站流量。 |
 | 通信与短信中心 | 通过统一 Web/API 管理 AT 短信收发、会话、联系人和 USSD 交互，短信可落库查询。 |
+| 自动任务 | 按周期绑定设备与 SIM/eSIM Profile，在设备级串行队列中自动准备 VoWiFi/蜂窝环境并执行短信或限时通话，支持重试、通知、立即执行和历史记录。 |
 | eSIM 管理 | 通过 AT 指令通道管理 eSIM Profile，包括下载、启用、停用、重命名和删除。 |
 | 全渠道通知 | 重要短信和系统告警可推送至 Telegram、Email、PushPlus、Bark、飞书、QQ 等渠道。 |
 | 多架构构建 | 支持 amd64、arm64、armv7 等 Linux 运行时构建。 |
