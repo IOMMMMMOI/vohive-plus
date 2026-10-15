@@ -1,5 +1,7 @@
 # VoHive Plus
 
+该内容fork https://github.com/swordstudiox/vohive-plus 内容如有改动请参照该作者发布。
+
 本项目已从 [windloom/vohive-open](https://github.com/windloom/vohive-open) fork 为 [swordstudiox/vohive-plus](https://github.com/swordstudiox/vohive-plus)。
 
 VoHive Plus 是面向 Windows + WSL2 的桌面化分支，目标是让大疆 4G 模块在 Windows 电脑上通过轻量桌面壳管理 Linux 后端、USB 直通和 Web 管理页面。
